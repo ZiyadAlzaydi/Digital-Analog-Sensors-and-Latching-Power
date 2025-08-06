@@ -5,7 +5,7 @@ https://github.com/ZiyadAlzaydi/Auto-Off-Power-Circuit-with-Arduino-LED-Button-S
 
 Analog Sensor :
 
-
+https://github.com/ZiyadAlzaydi/LDR-Analog-Sensor-
 
 Digital Sensor :
 
