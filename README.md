@@ -1,2 +1,12 @@
 # Digital-Analog-Sensors-and-Latching-Power
-g
+Latching Power:
+
+
+
+Analog Sensor :
+
+
+
+Digital Sensor :
+
+
